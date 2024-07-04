@@ -1,0 +1,43 @@
+Assigned Profiles for All server configurations,,,,
+,,,,
+Node ID,Node Name,IP Address,Profile Name,Out-of-the-box profile
+4,kbl-hq-esxi01.kingdombankltd.local,10.200.105.32,HW inventory,TRUE
+8,KBLSVR19,10.0.1.7,HW inventory,TRUE
+14,DBSERVER-BR,10.0.1.18,HW inventory,TRUE
+16,KBLSVR48,10.0.1.21,HW inventory,TRUE
+24,JBBSVR30,10.0.1.32,HW inventory,TRUE
+30,DIGI-BANK,10.0.1.52,HW inventory,TRUE
+34,KBLSVR28,10.0.1.67,HW inventory,TRUE
+53,KBLHQ001.KINGDOMBANKLTD.LOCAL,10.0.1.170,HW inventory,TRUE
+57,KBLHPD02,10.0.1.185,HW inventory,TRUE
+58,KBLSVR69,10.0.1.195,HW inventory,TRUE
+69,KBLSVR55,10.0.1.92,HW inventory,TRUE
+78,KBLSVR57,10.0.1.204,HW inventory,TRUE
+94,KBLSVR46,10.0.1.29,HW inventory,TRUE
+97,KBLHQ002,10.0.1.62,HW inventory,TRUE
+99,kb-cucm-pub.jbb.local,10.0.50.4,HW inventory,TRUE
+100,KBLHP002.KINGDOMBANKLTD.LOCAL,10.0.1.95,HW inventory,TRUE
+102,kbl-dr-esxi-host.kingdombankltd.local,10.200.110.12,HW inventory,TRUE
+106,KBLHPA014,10.0.1.184,HW inventory,TRUE
+30,DIGI-BANK,10.0.1.52,IIS,TRUE
+100,KBLHP002.KINGDOMBANKLTD.LOCAL,10.0.1.95,IIS,TRUE
+81,KBID.kingdombankltd.co.ke,10.0.1.123,Linux Essentials,TRUE
+82,kbid_db_server_124_new,10.0.1.124,Linux Essentials,TRUE
+81,KBID.kingdombankltd.co.ke,10.0.1.123,Linux Security and Permissions,TRUE
+82,kbid_db_server_124_new,10.0.1.124,Linux Security and Permissions,TRUE
+8,KBLSVR19,10.0.1.7,SW inventory,TRUE
+14,DBSERVER-BR,10.0.1.18,SW inventory,TRUE
+16,KBLSVR48,10.0.1.21,SW inventory,TRUE
+24,JBBSVR30,10.0.1.32,SW inventory,TRUE
+30,DIGI-BANK,10.0.1.52,SW inventory,TRUE
+34,KBLSVR28,10.0.1.67,SW inventory,TRUE
+53,KBLHQ001.KINGDOMBANKLTD.LOCAL,10.0.1.170,SW inventory,TRUE
+57,KBLHPD02,10.0.1.185,SW inventory,TRUE
+58,KBLSVR69,10.0.1.195,SW inventory,TRUE
+69,KBLSVR55,10.0.1.92,SW inventory,TRUE
+78,KBLSVR57,10.0.1.204,SW inventory,TRUE
+94,KBLSVR46,10.0.1.29,SW inventory,TRUE
+97,KBLHQ002,10.0.1.62,SW inventory,TRUE
+99,kb-cucm-pub.jbb.local,10.0.50.4,SW inventory,TRUE
+100,KBLHP002.KINGDOMBANKLTD.LOCAL,10.0.1.95,SW inventory,TRUE
+106,KBLHPA014,10.0.1.184,SW inventory,TRUE

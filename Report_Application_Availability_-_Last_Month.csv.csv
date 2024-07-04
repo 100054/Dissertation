@@ -1,0 +1,21 @@
+Application Availability for Application Availability Last Month,,,
+,,,
+Month,Application Name,NodeName,Application Availability
+June 2024,Microsoft IIS,DBSERVER-BR,0.00 %
+June 2024,MSSQLSERVER,DBSERVER-BR,35.09 %
+June 2024,TESTDB,DBSERVER-BR,0.00 %
+June 2024,Microsoft IIS,DIGI-BANK,99.91 %
+June 2024,Windows Scheduled Tasks,DIGI-BANK,100.00 %
+June 2024,Cisco CallManager,kb-cucm-pub.jbb.local,100.00 %
+June 2024,apache2,KBID.kingdombankltd.co.ke,99.93 %
+June 2024,CBK.JobsScheduler,KBLHP002.KINGDOMBANKLTD.LOCAL,83.34 %
+June 2024,Microsoft IIS,KBLHP002.KINGDOMBANKLTD.LOCAL,99.97 %
+June 2024,Microsoft.PowerBI.EnterpriseGateway,KBLHP002.KINGDOMBANKLTD.LOCAL,99.94 %
+June 2024,MSSQLSERVER,KBLHP002.KINGDOMBANKLTD.LOCAL,0.00 %
+June 2024,SearchApp,KBLHP002.KINGDOMBANKLTD.LOCAL,94.54 %
+June 2024,Microsoft IIS,KBLHPA014,0.22 %
+June 2024,Active Directory,KBLHQ001.KINGDOMBANKLTD.LOCAL,100.00 %
+June 2024,Active Directory,KBLHQ002,0.00 %
+June 2024,Windows DHCP Server,KBLSVR46,98.37 %
+June 2024,KPRINTER.SERVER,KBLSVR48,99.51 %
+June 2024,MOVER,KBLSVR48,99.51 %
